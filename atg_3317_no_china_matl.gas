@@ -1,0 +1,20 @@
+Program.Sub.ScreenSU.Start
+Program.Sub.ScreenSU.End
+
+Program.Sub.Preflight.Start
+
+Program.Sub.Preflight.End
+
+Program.Sub.Main.Start
+'Coded by: MLA
+'Project Start Date: 3/21/2011
+'Hooks:
+'16850
+'Notes:
+'  Loadmaster
+
+V.Passed.000137.Set("No Chinese Material")
+
+Program.Sub.Main.End
+
+
